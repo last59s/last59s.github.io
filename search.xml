@@ -3,10 +3,10 @@
   <entry>
     <title>Markdown语法</title>
     <url>/2021/02/05/Markdown%E8%AF%AD%E6%B3%95/</url>
-    <content><![CDATA[<p>不会吧不会吧，这年头居然还有人还不会写Markdown吧<img src="../images/tieba/捂嘴笑.png" title="不会吧不会把" style="zoom:80%;" /></p>
+    <content><![CDATA[<p>不会吧不会吧，这年头居然还有人还不会写Markdown吧<img src="/images/tieba/捂嘴笑.png" title="不会吧不会把" style="zoom:80%;" /></p>
 <a id="more"></a>
 
-<p>没错正是在下<img src="../images/coolapk/coolapk_emotion_64_shounuehuaji.png" title='不然我写这干啥' style="zoom:50%;" /></p>
+<p>没错正是在下<img src="/images/coolapk/coolapk_emotion_64_shounuehuaji.png" title='不然我写这干啥' style="zoom:50%;" /></p>
 <hr>
 <p>本页及本站的所有文章，均由Markdown，编写工具：<a href="https://typora.io/">Typora</a></p>
 <hr>
@@ -117,7 +117,7 @@
 <p>至于语法嘛，也不难，就是 Latex 的语法，不过记得在编辑器中先打开扩展语法的选项才能实时预览</p>
 <hr>
 <p>另外，本站采用的是 valine 评论系统，也支持 markdown 的语法，至于支持的程度有多少，我就不得而知啦，所以欢迎各位在下方或在留言板中评论</p>
-<p><img src="../images/biaoqing/maomaopa.gif"></p>
+<p><img src="/images/biaoqing/maomaopa.gif"></p>
 ]]></content>
       <tags>
         <tag>markdown</tag>
